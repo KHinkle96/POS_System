@@ -5,8 +5,8 @@
 </head>
 
 <body>
-
 <span>
+
 <button type="button" value="0">0</button>
 <button type="button" value="1">1</button>
 <button type="button" value="2">2</button>
@@ -17,3 +17,12 @@
 <button type="button" value="7">7</button>
 <button type="button" value="8">8</button>
 <button type="button" value="9">9</button>
+<button type="submit" value="submit">Add Amount</button>
+
+<span>
+
+<div>
+
+<button type="submit" value="submit">Save Till</button>
+
+<div>
