@@ -17,7 +17,6 @@
 <button id = “btn7”>7</button>
 <button id = “btn8”>8</button>
 <button id = “btn9”>9</button>
-
 <span></span>
 <form action = "/" method = "post">
     <input type = "submit" value = "Send" />
