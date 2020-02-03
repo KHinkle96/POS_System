@@ -22,3 +22,6 @@
 <form action = "/" method = "post">
     <input type = "submit" value = "Send" />
 </form>
+<script src="./app.js"></script>
+</body>
+</html>
